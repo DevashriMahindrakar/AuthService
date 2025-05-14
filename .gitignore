@@ -4,3 +4,4 @@
 
 /.vs/AuthService
 /obj
+/bin/Debug/net8.0
